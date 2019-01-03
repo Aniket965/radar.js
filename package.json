@@ -11,7 +11,7 @@
   "author": "Andreas Offenhaeuser <http://anoff.io>",
   "license": "Apache-2.0",
   "dependencies": {
-    "ava": "^1.0.1",
+    "ava": "^0.22.0",
     "standard": "^11.0.0",
     "uuid": "^3.1.0",
     "web3": "^1.0.0-beta.18",
